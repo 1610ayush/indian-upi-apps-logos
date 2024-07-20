@@ -1,4 +1,4 @@
-# Indian UPI Logos NPM Package
+# Indian UPI Apps Logos NPM Package
 
 This NPM package provides SVG logos for various Indian UPI (Unified Payments Interface) apps. It simplifies the tedious task of finding these logos and converting them into SVGs. The package includes both circular and square versions of each logo.
 
