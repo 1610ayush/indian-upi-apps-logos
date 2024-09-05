@@ -11,7 +11,7 @@ npm install indian-upi-apps-logos
 ## Contributing
 #### Contributions are welcome! If you find a logo missing or want to add a new one, please submit a pull request.
 
-1. Fork the repository
+1. Fork the repository.
 
 2. Create a new branch (git checkout -b feature-branch)
 
